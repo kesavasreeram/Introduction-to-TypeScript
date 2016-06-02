@@ -1,0 +1,31 @@
+{
+  "name": "introduction-to-typescript",
+  "version": "1.0.0",
+  "description": "A short introduction to the world of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesavasreeram/Introduction-to-TypeScript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Kesava Sreeram T",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesavasreeram/Introduction-to-TypeScript/issues"
+  },
+  "homepage": "https://github.com/kesavasreeram/Introduction-to-TypeScript#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-typescript": "^2.13.5",
+    "gulp-uglify": "^1.5.3"
+  }
+}
