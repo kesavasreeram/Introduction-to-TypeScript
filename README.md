@@ -30,3 +30,13 @@ example: str: **String**; specifying that the expected type of variable **str** 
 Inorder to automate building the TypeScript files to JavaScript files, we use Gulp. Grunt can also be used.
 
 Gulp is a task runner for JavaScript and TypeScript. A TypeScript Gulp/Grunt task can compile the TypeScript(.ts) file to JavaScript(.js) file.
+
+## Features of Typescript
+
+1. It supports standard Javascript code
+2. Provides static typing
+3. Encapsulation through classes and modules
+4. Support of constructors, properties, functions
+5. Define interfaces
+6. Lambda function support
+7. Intellisense and syntax checking
